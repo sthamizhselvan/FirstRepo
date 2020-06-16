@@ -2,6 +2,8 @@ Hi this is a test file for GIT learning
 
 This is the first line.
 
-I am living in Dallas
+This is the second file
+
+added to demonstrate the modified file in git
 
 Thank you!
