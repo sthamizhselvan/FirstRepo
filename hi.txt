@@ -6,4 +6,6 @@ This is the second file
 
 added to demonstrate the modified file in git
 
+updated from bug1 branch
+
 Thank you!
