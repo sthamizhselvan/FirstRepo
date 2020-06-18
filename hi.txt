@@ -8,4 +8,6 @@ added to demonstrate the modified file in git
 
 updated from bug1 branch
 
+updated from master to check conflict issue
+
 Thank you!
